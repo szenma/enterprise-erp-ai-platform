@@ -1,0 +1,25 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+sqlalchemy==2.0.35
+alembic==1.13.2
+python-dotenv==1.0.1
+requests==2.32.3
+pandas==2.2.2
+scikit-learn==1.5.1
+xgboost==2.1.1
+prophet==1.1.5
+langchain==0.3.0
+langchain-community==0.3.0
+langgraph==0.2.0
+langchain-openai==0.2.0
+faiss-cpu==1.0.3
+openai==1.42.0
+streamlit==1.38.0
+plotly==5.23.0
+shap==0.46.0
+python-multipart==0.0.9
+# ERP connectors (use real ones in production)
+erpnext==0.1.0  # placeholder, replace with actual
+odoo-xmlrpc==0.1.0
+# netsuite sdk placeholder
