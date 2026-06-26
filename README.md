@@ -2,7 +2,7 @@
 
 **Enterprise AI Platform for ERP Systems** — A production-grade, full-stack AI solution integrating multiple ERPs with intelligent agents, RAG, and advanced ML models.
 
-Built to demonstrate **Senior AI Engineer** capabilities: multi-agent orchestration, time-series forecasting, explainable AI, and scalable deployment.
+ multi-agent orchestration, time-series forecasting, explainable AI, and scalable deployment.
 
 ![Architecture](docs/architecture.png) <!-- Add diagram later -->
 
@@ -54,6 +54,6 @@ Access:
 
 ---
 
-**Perfect for showcasing skills in interviews for AI Engineer, MLOps, or Enterprise AI roles.**
+
 
 Contributions & improvements welcome!
